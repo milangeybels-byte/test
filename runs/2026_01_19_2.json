@@ -1,0 +1,47 @@
+{
+  "run_metadata": {
+    "run_id": "oil_head_fake_2026_01_20",
+    "run_date": "2026-01-20",
+    "article_title": "The great oil head fake",
+    "article_source": "Financial Times",
+    "article_theme": "Energy/Geopolitics"
+  },
+  "model_output": {
+    "top_pick_index": 0,
+    "ideas": [
+      {
+        "official_stock_name": "Exxon Mobil Corp",
+        "direction": "Up",
+        "category": "Energy/Commodities",
+        "why": "Catalyst is a rebound in oil prices as markets reprice geopolitical and supply risks. Exxon has direct leverage to higher crude prices via upstream earnings. Assumes supply tightens faster than new investment ramps.",
+        "confidence": "High"
+      },
+      {
+        "official_stock_name": "Chevron Corp",
+        "direction": "Up",
+        "category": "Energy/Commodities",
+        "why": "Rising oil prices would lift cash flows for integrated majors. Chevron is exposed through upstream production and benefits if Venezuelan supply stays constrained. Assumes oil demand remains resilient.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "Halliburton Co",
+        "direction": "Up",
+        "category": "Industrial/Supply chain",
+        "why": "Higher oil prices typically trigger increased upstream capex. Halliburton benefits from tighter supply driving investment in mature fields. Assumes operators respond to price signals with spending.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "BP PLC",
+        "direction": "Down",
+        "category": "Energy/Commodities",
+        "why": "A sharp oil rebound could pressure BP due to its reduced upstream exposure and recent green energy write-downs. Assumes peers with higher oil leverage outperform in a rising crude tape.",
+        "confidence": "Low"
+      }
+    ],
+    "key_assumptions": [
+      "Geopolitical risk or Chinese stockpiling tightens oil markets within months",
+      "OPEC+ and non-OPEC supply does not offset demand surprises",
+      "Equity markets reprice energy exposure faster than broader risk assets"
+    ]
+  }
+}

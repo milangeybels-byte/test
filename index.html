@@ -1,14 +1,28 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Global Market Insights - Premium</title>
-    <link rel="stylesheet" href="style.css">
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Archive – Daily Picks</title>
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-    <div id="app" class="app-container"></div>
-    <script src="data.js"></script>
-    <script src="app.js" defer></script>
+  <main class="container">
+    <header class="header">
+      <h1>Archive</h1>
+      <nav class="nav">
+        <a href="run.html">Latest</a>
+      </nav>
+      <div class="sub">All published runs</div>
+      <div class="error" id="error"></div>
+    </header>
+
+    <section class="card">
+      <div id="archiveList" class="stack"></div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
 </body>
 </html>
+
