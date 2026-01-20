@@ -1,0 +1,47 @@
+{
+  "run_metadata": {
+    "run_id": "run_20260120_001",
+    "run_date": "2026-01-20",
+    "article_title": "The world’s economy — past, present and future",
+    "article_source": "Financial Times",
+    "article_theme": "Geopolitics"
+  },
+  "model_output": {
+    "top_pick_index": 0,
+    "ideas": [
+      {
+        "official_stock_name": "Newmont Corporation",
+        "direction": "Up",
+        "category": "Materials",
+        "why": "Rising geopolitical unpredictability and doubts over US credibility increase demand for safe havens. Newmont is highly leveraged to gold prices, which typically benefit if confidence in the dollar and global order weakens.",
+        "confidence": "High"
+      },
+      {
+        "official_stock_name": "Lockheed Martin Corporation",
+        "direction": "Up",
+        "category": "Defense/Aerospace",
+        "why": "Heightened global instability and a less reliable US-led order raise defense spending urgency among allies. Lockheed is directly exposed to increased demand for advanced defense systems.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "Caterpillar Inc.",
+        "direction": "Down",
+        "category": "Industrial/Supply chain",
+        "why": "Persistent trade tensions and policy unpredictability risk delaying global capital investment. Caterpillar’s cyclical demand is sensitive to reduced business confidence and disrupted trade flows.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "JPMorgan Chase & Co.",
+        "direction": "Down",
+        "category": "Financials",
+        "why": "Erosion of confidence in US institutions and the dollar could pressure global financial flows. JPMorgan is exposed to volatility in capital markets and any perceived weakening of US financial leadership.",
+        "confidence": "Low"
+      }
+    ],
+    "key_assumptions": [
+      "Geopolitical uncertainty remains elevated over the next few months",
+      "Investor sentiment shifts toward defensive and safe-haven assets",
+      "Trade and institutional uncertainty weighs on global business confidence"
+    ]
+  }
+}
