@@ -1,0 +1,47 @@
+{
+  "run_metadata": {
+    "run_id": "20260119_trump_greenland",
+    "run_date": "2026-01-19",
+    "article_title": "Trump’s Arctic ambitions torch the most important US asset",
+    "article_source": "Financial Times",
+    "article_theme": "Geopolitics"
+  },
+  "model_output": {
+    "top_pick_index": 0,
+    "ideas": [
+      {
+        "official_stock_name": "Newmont Corporation",
+        "direction": "Up",
+        "category": "Materials",
+        "why": "The implied catalyst is declining trust in US assets driving safe-haven demand. Newmont is highly leveraged to gold prices, which investors are rotating into as Treasuries and the dollar weaken. This assumes geopolitical stress sustains risk-off flows.",
+        "confidence": "High"
+      },
+      {
+        "official_stock_name": "Deutsche Bank AG",
+        "direction": "Up",
+        "category": "Financials",
+        "why": "The catalyst is capital diversification away from US assets toward Europe. Deutsche Bank benefits from increased European bond and equity flows as investors rebalance regionally. This assumes sustained portfolio reallocation rather than a brief market wobble.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "BlackRock, Inc.",
+        "direction": "Down",
+        "category": "Financials",
+        "why": "The catalyst is reduced global appetite for US Treasuries and dollar assets. BlackRock is highly exposed to US asset inflows, so sentiment-driven diversification could pressure near-term flows. This assumes investors act on allocation shifts quickly.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "JPMorgan Chase & Co.",
+        "direction": "Down",
+        "category": "Financials",
+        "why": "The implied catalyst is higher US borrowing costs from weaker Treasury demand. JPMorgan is exposed to US capital markets activity and rate volatility. This assumes bond market stress persists and affects financial conditions.",
+        "confidence": "Low"
+      }
+    ],
+    "key_assumptions": [
+      "Geopolitical tensions translate into sustained asset allocation shifts",
+      "Gold remains the primary non-US safe-haven asset",
+      "European markets absorb incremental global capital flows"
+    ]
+  }
+}

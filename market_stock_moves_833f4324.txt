@@ -1,0 +1,47 @@
+{
+  "run_metadata": {
+    "run_id": "833f4324",
+    "run_date": "2026-01-19",
+    "article_title": "The dangerous triumph of neo-mercantilism",
+    "article_source": "Financial Times",
+    "article_theme": "Geopolitics/Trade"
+  },
+  "model_output": {
+    "top_pick_index": 0,
+    "ideas": [
+      {
+        "official_stock_name": "United States Steel Corporation",
+        "direction": "Up",
+        "category": "Materials",
+        "why": "Rising US tariffs signal stronger protection for domestic manufacturing. US Steel benefits directly from higher import barriers that reduce foreign steel competition, assuming tariffs persist and are enforced.",
+        "confidence": "High"
+      },
+      {
+        "official_stock_name": "Nucor Corporation",
+        "direction": "Up",
+        "category": "Materials",
+        "why": "Neo-mercantilist trade policy favors domestic steel producers through tariffs and procurement bias. Nucor is highly exposed to US steel demand if import competition is curtailed.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "Walmart Inc.",
+        "direction": "Down",
+        "category": "Consumer",
+        "why": "Higher tariffs on imported goods raise input costs for large import-heavy retailers. Walmart faces margin pressure if price increases cannot be fully passed on to consumers.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "Nike, Inc.",
+        "direction": "Down",
+        "category": "Consumer",
+        "why": "Escalating trade frictions and tariffs increase costs and disrupt supply chains for globally sourced apparel, leaving Nike exposed if trade barriers persist.",
+        "confidence": "Low"
+      }
+    ],
+    "key_assumptions": [
+      "US tariff levels remain elevated over the next several months",
+      "China continues exporting excess industrial capacity abroad",
+      "No rapid multilateral trade d\u00e9tente reverses current policies"
+    ]
+  }
+}
