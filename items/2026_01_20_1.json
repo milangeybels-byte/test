@@ -1,0 +1,55 @@
+{
+  "run_metadata": {
+    "run_id": "c4d9808d-09dc-4597-b9b5-aea08b4810ef",
+    "run_date": "2026-01-20",
+    "article_title": "Trump is erasing the global economic order",
+    "article_source": "Financial Times",
+    "article_theme": "Geopolitics",
+    "article_hypothesis": "US unpredictability erodes global economic order"
+  },
+  "model_output": {
+    "top_pick_index": 0,
+    "ideas": [
+      {
+        "official_stock_name": "Lockheed Martin Corp",
+        "direction": "Up",
+        "category": "Defense/Aerospace",
+        "why": "Catalyst is rising geopolitical instability and weakened multilateral order. Defense spending tends to rise when alliances fray. Lockheed is highly leveraged to increased US and allied defense budgets. Assumes governments respond with higher military spending.",
+        "confidence": "High"
+      },
+      {
+        "official_stock_name": "Raytheon Technologies Corp",
+        "direction": "Up",
+        "category": "Defense/Aerospace",
+        "why": "Unpredictable US foreign policy increases demand for missile defense and advanced systems. Raytheon is directly exposed to air and missile defense procurement. Assumes escalation risk translates into near-term orders.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "JPMorgan Chase & Co",
+        "direction": "Down",
+        "category": "Financials",
+        "why": "Article implies erosion of US institutional credibility and dollar dominance. JPM is deeply tied to global dollar-based finance. Assumes markets begin pricing higher political and regulatory risk into US financials.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "BlackRock Inc",
+        "direction": "Down",
+        "category": "Financials",
+        "why": "Global policy instability and attacks on institutions can pressure cross-border capital flows. BlackRock\u2019s AUM is sensitive to market confidence and global cooperation. Assumes uncertainty drives risk-off reallocations.",
+        "confidence": "Low"
+      },
+      {
+        "official_stock_name": "Exxon Mobil Corp",
+        "direction": "Up",
+        "category": "Energy/Commodities",
+        "why": "Weakening climate cooperation and multilateral frameworks favors incumbent fossil fuel producers. Exxon benefits if climate policy coordination erodes. Assumes reduced regulatory pressure in the near term.",
+        "confidence": "Med"
+      }
+    ],
+    "key_assumptions": [
+      "Geopolitical unpredictability translates into higher defense spending quickly",
+      "Markets begin pricing political risk into US institutions",
+      "Climate cooperation weakens rather than being replaced by regional frameworks"
+    ]
+  }
+}

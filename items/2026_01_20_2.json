@@ -1,0 +1,49 @@
+{
+  "run_metadata": {
+    "run_id": "ft_tariffs_furniture_2026_01_20",
+    "run_date": "2026-01-20",
+    "article_title": "The reality of trying to make US manufacturing great again",
+    "article_source": "Financial Times",
+    "article_theme": "Global trade / Tariffs",
+    "article_hypothesis": "Tariffs raise prices without reshoring US furniture manufacturing"
+  },
+  "model_output": {
+    "top_pick_index": 0,
+    "ideas": [
+      {
+        "official_stock_name": "RH",
+        "direction": "Down",
+        "category": "Consumer",
+        "why": "Tariff-driven input and sourcing costs are raising furniture prices, suppressing large discretionary purchases. RH is exposed to high-ticket furniture demand, which the article suggests is being delayed amid tariff uncertainty. Assumes price sensitivity persists.",
+        "confidence": "High"
+      },
+      {
+        "official_stock_name": "Wayfair Inc.",
+        "direction": "Down",
+        "category": "Consumer",
+        "why": "Tariffs on furniture and components increase landed costs for imported goods, pressuring margins or forcing price hikes. Wayfair\u2019s value-driven online demand is sensitive to price inflation. Assumes tariffs are not fully rolled back soon.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "Williams-Sonoma Inc.",
+        "direction": "Down",
+        "category": "Consumer",
+        "why": "Rising furniture and home goods prices linked to tariffs risk dampening near-term demand. Williams-Sonoma relies on global sourcing and discretionary spending, both highlighted as under pressure. Assumes consumer pullback continues.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "La-Z-Boy Inc.",
+        "direction": "Down",
+        "category": "Consumer",
+        "why": "Even US-assembled furniture relies on imported components facing tariffs, lifting costs. The article notes suppressed large orders and price increases, directly relevant to La-Z-Boy\u2019s core market. Assumes cost pass-through hits volumes.",
+        "confidence": "Med"
+      }
+    ],
+    "key_assumptions": [
+      "Tariff uncertainty and higher prices persist over the next few months",
+      "Consumers delay or cancel large furniture purchases due to inflation pressure",
+      "Partial tariff rollbacks are insufficient to restore prior demand",
+      "No rapid offset from stimulus or sudden tariff repeal"
+    ]
+  }
+}

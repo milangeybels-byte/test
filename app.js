@@ -13,13 +13,16 @@ function renderList() {
         <div class="report-grid">
     `;
 
-    stockData.forEach((report, index) => {
+    [...stockData]
+  .sort((a, b) =>
+    new Date(b.run_metadata.run_date) - new Date(a.run_metadata.run_date)
+  )
+  .forEach((report, index) => {
         html += `
             <div class="report-card" onclick="renderDetail(${index})">
                 <span class="card-date">${report.run_metadata.run_date}</span>
                 <span class="card-theme">${report.run_metadata.article_theme}</span>
-                <h2 class="card-title">${report.run_metadata.article_title}</h2>
-                <div class="card-source">Source: ${report.run_metadata.article_source}</div>
+                <h2 class="card-title">${report.run_metadata.article_hypothesis}</h2>
             </div>
         `;
     });
@@ -46,9 +49,9 @@ function renderDetail(index) {
             </div>
 
             <div class="detail-header">
-                <h1 class="detail-title">${report.run_metadata.article_title}</h1>
+                <h1 class="detail-title">${report.run_metadata.article_hypothesis}</h1>
                 <div class="detail-meta">
-                    ${report.run_metadata.run_date} • ${report.run_metadata.article_source} • ${report.run_metadata.article_theme}
+                    ${report.run_metadata.run_date} • ${report.run_metadata.article_theme}
                 </div>
             </div>
 

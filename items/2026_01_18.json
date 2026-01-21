@@ -1,0 +1,49 @@
+{
+  "run_metadata": {
+    "run_id": "8c530159-ce96-4fc3-aee1-25fcce4814c6",
+    "run_date": "2026-01-18",
+    "article_title": "Europe must not appease Trump on Greenland",
+    "article_source": "Financial Times",
+    "article_theme": "Geopolitics",
+    "article_hypothesis": "US-Europe conflict risks tariffs and alliance breakdown"
+  },
+  "model_output": {
+    "top_pick_index": 0,
+    "ideas": [
+      {
+        "official_stock_name": "Apple Inc.",
+        "direction": "Down",
+        "category": "Tech/Semiconductors",
+        "why": "Escalating US–EU tariffs would invite European retaliation on US tech. Apple has high Europe revenue exposure, making it vulnerable to near-term sentiment and trade-friction driven multiple compression, assuming tariffs move beyond rhetoric.",
+        "confidence": "High"
+      },
+      {
+        "official_stock_name": "Microsoft Corp.",
+        "direction": "Down",
+        "category": "Tech/Semiconductors",
+        "why": "European counter-tariffs explicitly targeting big US tech would directly hit Microsoft’s enterprise and cloud footprint in Europe, assuming the EU follows through on broad-based tech retaliation.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "Lockheed Martin Corp.",
+        "direction": "Up",
+        "category": "Defense/Aerospace",
+        "why": "A visible fracture in NATO and rising Arctic security tensions could accelerate European defense spending, benefiting prime US contractors like Lockheed if security fears outweigh trade retaliation.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "Meta Platforms Inc.",
+        "direction": "Down",
+        "category": "Tech/Semiconductors",
+        "why": "US tech firms aligned with Trump’s political ecosystem are named as potential EU tariff targets, making Meta vulnerable to regulatory and trade-driven sentiment shocks if confrontation escalates.",
+        "confidence": "Low"
+      }
+    ],
+    "key_assumptions": [
+      "Trump proceeds with Greenland-related tariffs rather than backing down",
+      "EU responds with targeted counter-tariffs instead of symbolic measures",
+      "Trade conflict meaningfully impacts near-term market sentiment",
+      "Security tensions do not rapidly de-escalate"
+    ]
+  }
+}

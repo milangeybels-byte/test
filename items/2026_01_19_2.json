@@ -1,0 +1,49 @@
+{
+  "run_metadata": {
+    "run_id": "ft_2026_01_19_trump_arctic",
+    "run_date": "2026-01-19",
+    "article_title": "Trump’s Arctic ambitions torch the most important US asset",
+    "article_source": "Financial Times",
+    "article_theme": "Geopolitics",
+    "article_hypothesis": "US policy shocks undermine dollar and Treasuries"
+  },
+  "model_output": {
+    "top_pick_index": 0,
+    "ideas": [
+      {
+        "official_stock_name": "Newmont Corporation",
+        "direction": "Up",
+        "category": "Materials",
+        "why": "Catalyst is investor flight from US assets into gold as trust in dollar/Treasuries erodes. Newmont is highly leveraged to higher gold prices. Assumes geopolitical stress sustains safe‑haven gold demand near term.",
+        "confidence": "High"
+      },
+      {
+        "official_stock_name": "Barrick Gold Corporation",
+        "direction": "Up",
+        "category": "Materials",
+        "why": "Rising demand for non‑US safe havens lifts gold prices. Barrick offers direct operational leverage to gold without US sovereign exposure. Assumes gold remains preferred hedge over crypto or FX.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "JPMorgan Chase & Co.",
+        "direction": "Down",
+        "category": "Financials",
+        "why": "US‑born geopolitical shock prompts selling of US financial assets and weaker Treasuries. Large US banks are exposed to sentiment, funding costs, and asset re‑rating. Assumes sustained ‘sell US’ positioning.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "Deutsche Börse AG",
+        "direction": "Up",
+        "category": "Financials",
+        "why": "Capital rotation toward Europe boosts European market activity and asset allocation. Deutsche Börse benefits from higher trading, clearing, and listings. Assumes diversification flows favor Europe over US.",
+        "confidence": "Med"
+      }
+    ],
+    "key_assumptions": [
+      "Trump’s rhetoric translates into sustained market distrust of US assets",
+      "Gold remains the primary safe haven versus USD and Treasuries",
+      "Institutional investors incrementally rebalance toward Europe",
+      "No rapid policy reversal that restores confidence in US markets"
+    ]
+  }
+}

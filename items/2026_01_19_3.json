@@ -1,0 +1,55 @@
+{
+  "run_metadata": {
+    "run_id": "a764ae0f-94dd-4b96-b0eb-49203e2c90db",
+    "run_date": "2026-01-19",
+    "article_title": "The dangerous triumph of neo-mercantilism",
+    "article_source": "Financial Times",
+    "article_theme": "Geopolitics",
+    "article_hypothesis": "Rising protectionism fragments global trade"
+  },
+  "model_output": {
+    "top_pick_index": 0,
+    "ideas": [
+      {
+        "official_stock_name": "United States Steel Corp",
+        "direction": "Up",
+        "category": "Materials",
+        "why": "Higher US tariffs signal tougher import barriers. Domestic steelmakers gain pricing power and demand protection. Assumes tariffs persist and exemptions are limited.",
+        "confidence": "High"
+      },
+      {
+        "official_stock_name": "Nucor Corp",
+        "direction": "Up",
+        "category": "Materials",
+        "why": "US neo-mercantilism favors domestic manufacturing inputs. Nucor benefits from reduced foreign steel competition. Assumes infrastructure and industrial demand hold.",
+        "confidence": "High"
+      },
+      {
+        "official_stock_name": "Alibaba Group Holding ADR",
+        "direction": "Down",
+        "category": "Consumer",
+        "why": "Escalating trade frictions risk spillovers into broader US-China economic relations, hurting Chinese exporters and sentiment. Assumes tensions widen beyond goods tariffs.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "BYD Co Ltd",
+        "direction": "Down",
+        "category": "Industrial/Supply chain",
+        "why": "Global pushback against Chinese manufacturing dominance raises tariff and market-access risks. Export-heavy manufacturers face near-term pressure. Assumes more countries adopt barriers.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "Maersk A/S",
+        "direction": "Down",
+        "category": "Industrial/Supply chain",
+        "why": "Trade fragmentation and tariffs reduce global trade volumes. Container shipping demand weakens. Assumes no rapid trade d\u00e9tente.",
+        "confidence": "Low"
+      }
+    ],
+    "key_assumptions": [
+      "US tariffs remain elevated for several months",
+      "China does not rapidly stimulate domestic demand to offset exports",
+      "No immediate multilateral trade agreement is reached"
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "run_metadata": {
+    "run_id": "6064ed0b-d30d-4e8a-ac9c-d66621331e01",
+    "run_date": "2026-01-19",
+    "article_title": "The great oil head fake",
+    "article_source": "Financial Times",
+    "article_theme": "Energy",
+    "article_hypothesis": "Oil oversupply masks looming supply-demand crunch"
+  },
+  "model_output": {
+    "top_pick_index": 0,
+    "ideas": [
+      {
+        "official_stock_name": "Exxon Mobil Corp",
+        "direction": "Up",
+        "category": "Energy/Commodities",
+        "why": "Catalyst is a near-term rebound in oil prices as geopolitical risk and declining legacy field output get repriced. Exxon is highly levered to crude price upside through upstream earnings. Assumes supply disruptions or stockpiling tighten balances.",
+        "confidence": "High"
+      },
+      {
+        "official_stock_name": "Chevron Corp",
+        "direction": "Up",
+        "category": "Energy/Commodities",
+        "why": "Rising oil prices would lift cash flows and sentiment for integrated majors. Chevron has direct exposure to upstream pricing and benefits quickly from crude rallies. Assumes oil oversupply narrative reverses.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "BP PLC",
+        "direction": "Up",
+        "category": "Energy/Commodities",
+        "why": "A rebound in oil prices could offset recent weakness tied to energy transition investments. BP remains sensitive to near-term crude pricing. Assumes investors refocus on hydrocarbons over green losses.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "Linde PLC",
+        "direction": "Down",
+        "category": "Industrial/Supply chain",
+        "why": "Higher oil prices can raise input and energy costs, pressuring margins for energy-intensive industrial gas producers. Near-term oil spikes could weigh on sentiment. Assumes limited immediate cost pass-through.",
+        "confidence": "Low"
+      }
+    ],
+    "key_assumptions": [
+      "Geopolitical risks translate into actual or feared supply disruptions",
+      "Chinese crude stockpiling continues at elevated levels",
+      "Market positioning unwinds from bearish consensus",
+      "Oil demand does not materially contract in the near term"
+    ]
+  }
+}
