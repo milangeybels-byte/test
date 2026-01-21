@@ -11,7 +11,7 @@ $allData = @()
 
 foreach ($file in $files) {
     try {
-        $content = Get-Content -Path $file.FullName -Raw
+        $content = Get-Content -Path $file.FullName -Raw -Encoding UTF8
         $json = $content | ConvertFrom-Json
         $allData += $json
     }

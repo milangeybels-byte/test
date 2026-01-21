@@ -48,6 +48,46 @@
     },
     {
         "run_metadata":  {
+                             "run_id":  "run_20260120_001",
+                             "run_date":  "2026-01-20",
+                             "article_title":  "Trump’s Arctic ambitions torch the most important US asset",
+                             "article_source":  "Financial Times",
+                             "article_theme":  "Geopolitics"
+                         },
+        "model_output":  {
+                             "top_pick_index":  0,
+                             "ideas":  [
+                                           {
+                                               "official_stock_name":  "Newmont Corporation",
+                                               "direction":  "Up",
+                                               "category":  "Energy/Commodities",
+                                               "why":  "Catalyst is erosion of trust in US assets pushing investors toward gold as a safe haven. Newmont is highly leveraged to gold prices. Assumes risk-off sentiment persists and gold remains preferred over USD and Treasuries.",
+                                               "confidence":  "High"
+                                           },
+                                           {
+                                               "official_stock_name":  "Barrick Gold Corporation",
+                                               "direction":  "Up",
+                                               "category":  "Energy/Commodities",
+                                               "why":  "Investor diversification away from US financial assets boosts demand for gold. Barrick offers direct operational leverage to rising gold prices. Assumes no sharp reversal in geopolitical tensions or dollar strength.",
+                                               "confidence":  "Med"
+                                           },
+                                           {
+                                               "official_stock_name":  "JPMorgan Chase \u0026 Co.",
+                                               "direction":  "Down",
+                                               "category":  "Financials",
+                                               "why":  "Weakening Treasuries and declining US safe-haven status pressure US financial assets. JPM is exposed via large balance sheet and capital markets activity. Assumes sustained selling pressure on US bonds.",
+                                               "confidence":  "Med"
+                                           }
+                                       ],
+                             "key_assumptions":  [
+                                                     "Geopolitical uncertainty continues to undermine confidence in US assets",
+                                                     "Gold remains the preferred safe haven versus USD and Treasuries",
+                                                     "No rapid policy reversal restores investor trust in US markets"
+                                                 ]
+                         }
+    },
+    {
+        "run_metadata":  {
                              "run_id":  "oil_head_fake_2026_01_20",
                              "run_date":  "2026-01-20",
                              "article_title":  "The great oil head fake",
@@ -97,7 +137,7 @@
         "run_metadata":  {
                              "run_id":  "run_20260120_001",
                              "run_date":  "2026-01-20",
-                             "article_title":  "The worldâ€™s economy â€” past, present and future",
+                             "article_title":  "The world’s economy — past, present and future",
                              "article_source":  "Financial Times",
                              "article_theme":  "Geopolitics"
                          },
@@ -122,7 +162,7 @@
                                                "official_stock_name":  "Caterpillar Inc.",
                                                "direction":  "Down",
                                                "category":  "Industrial/Supply chain",
-                                               "why":  "Persistent trade tensions and policy unpredictability risk delaying global capital investment. Caterpillarâ€™s cyclical demand is sensitive to reduced business confidence and disrupted trade flows.",
+                                               "why":  "Persistent trade tensions and policy unpredictability risk delaying global capital investment. Caterpillar’s cyclical demand is sensitive to reduced business confidence and disrupted trade flows.",
                                                "confidence":  "Med"
                                            },
                                            {
