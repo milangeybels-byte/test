@@ -1,0 +1,48 @@
+{
+  "run_metadata": {
+    "run_id": "greenland_climbdown_001",
+    "run_date": "2026-01-21",
+    "article_title": "The great Greenland climbdown",
+    "article_source": "Financial Times",
+    "article_theme": "Geopolitics/Trade",
+    "article_hypothesis": "Trump backs off tariffs and coercive Greenland threats"
+  },
+  "model_output": {
+    "top_pick_index": 0,
+    "ideas": [
+      {
+        "official_stock_name": "Caterpillar Inc.",
+        "direction": "Up",
+        "category": "Industrial/Supply chain",
+        "why": "Catalyst is easing US tariff threats on allies, reducing near-term trade-war risk. Caterpillar is highly exposed to global capex sentiment and cross-border trade. Assumes tariff de-escalation holds for coming months.",
+        "confidence": "High"
+      },
+      {
+        "official_stock_name": "Siemens AG",
+        "direction": "Up",
+        "category": "Industrial/Supply chain",
+        "why": "Trump stepping back from tariffs reduces downside risk for European exporters. Siemens is sensitive to global trade and industrial confidence. Assumes Europe avoids new US trade penalties near term.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "BMW AG",
+        "direction": "Up",
+        "category": "Consumer",
+        "why": "Auto stocks benefit from lower probability of US tariffs on Europe. BMW has meaningful US exposure and tariff sensitivity. Assumes no renewed auto-specific tariff threats soon.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "Lockheed Martin Corp.",
+        "direction": "Down",
+        "category": "Defense/Aerospace",
+        "why": "Reduced geopolitical escalation rhetoric lowers short-term defense risk premium. Lockheed is closely tied to NATO tension narratives. Assumes markets price slightly lower confrontation risk.",
+        "confidence": "Low"
+      }
+    ],
+    "key_assumptions": [
+      "Trump\u2019s tariff climbdown is credible for weeks to months",
+      "Markets treat Davos remarks as de-escalatory signal",
+      "No immediate replacement trade or geopolitical shock emerges"
+    ]
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "run_metadata": {
+    "run_id": "eu_autonomy_2026_01_22_01",
+    "run_date": "2026-01-22",
+    "article_title": "Thanks Donald, Europe will take it from here",
+    "article_source": "Financial Times",
+    "article_theme": "Geopolitics",
+    "article_hypothesis": "Europe accelerates strategic independence from the US"
+  },
+  "model_output": {
+    "top_pick_index": 0,
+    "ideas": [
+      {
+        "official_stock_name": "Rheinmetall AG",
+        "direction": "Up",
+        "category": "Defense/Aerospace",
+        "why": "Catalyst is rising EU defence spending and push for European-only procurement. Rheinmetall is a core European defence prime positioned to benefit if Europe reduces reliance on US suppliers. Assumes defence budgets and procurement reform translate into near-term orders.",
+        "confidence": "High"
+      },
+      {
+        "official_stock_name": "BAE Systems plc",
+        "direction": "Up",
+        "category": "Defense/Aerospace",
+        "why": "EU rearmament and coalition-based defence projects support demand for large non-US-aligned defence primes. BAE benefits from European-led procurement if US firms are deprioritised. Assumes UK remains integrated into EU defence initiatives.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "Palantir Technologies Inc",
+        "direction": "Down",
+        "category": "Tech/Semiconductors",
+        "why": "Catalyst is European push to reduce dependence on US defence and data platforms. Palantir is explicitly cited as a risky US supplier, raising near-term contract and sentiment risk in Europe. Assumes rhetoric influences procurement decisions.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "Airbus SE",
+        "direction": "Up",
+        "category": "Defense/Aerospace",
+        "why": "European strategic autonomy supports demand for domestically controlled aerospace and defence capabilities. Airbus is a flagship EU industrial champion that could gain from coordinated defence and tech investment. Assumes defence spillover benefits aerospace units.",
+        "confidence": "Med"
+      }
+    ],
+    "key_assumptions": [
+      "European defence spending increases accelerate rather than remain symbolic",
+      "EU governments actively shift procurement away from US suppliers",
+      "Policy rhetoric quickly influences budget allocation and contracts"
+    ]
+  }
+}

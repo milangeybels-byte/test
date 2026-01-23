@@ -304,5 +304,205 @@
                                                      "No rapid offset from stimulus or sudden tariff repeal"
                                                  ]
                          }
+    },
+    {
+        "run_metadata":  {
+                             "run_id":  "greenland_climbdown_001",
+                             "run_date":  "2026-01-21",
+                             "article_title":  "The great Greenland climbdown",
+                             "article_source":  "Financial Times",
+                             "article_theme":  "Geopolitics/Trade",
+                             "article_hypothesis":  "Trump backs off tariffs and coercive Greenland threats"
+                         },
+        "model_output":  {
+                             "top_pick_index":  0,
+                             "ideas":  [
+                                           {
+                                               "official_stock_name":  "Caterpillar Inc.",
+                                               "direction":  "Up",
+                                               "category":  "Industrial/Supply chain",
+                                               "why":  "Catalyst is easing US tariff threats on allies, reducing near-term trade-war risk. Caterpillar is highly exposed to global capex sentiment and cross-border trade. Assumes tariff de-escalation holds for coming months.",
+                                               "confidence":  "High"
+                                           },
+                                           {
+                                               "official_stock_name":  "Siemens AG",
+                                               "direction":  "Up",
+                                               "category":  "Industrial/Supply chain",
+                                               "why":  "Trump stepping back from tariffs reduces downside risk for European exporters. Siemens is sensitive to global trade and industrial confidence. Assumes Europe avoids new US trade penalties near term.",
+                                               "confidence":  "Med"
+                                           },
+                                           {
+                                               "official_stock_name":  "BMW AG",
+                                               "direction":  "Up",
+                                               "category":  "Consumer",
+                                               "why":  "Auto stocks benefit from lower probability of US tariffs on Europe. BMW has meaningful US exposure and tariff sensitivity. Assumes no renewed auto-specific tariff threats soon.",
+                                               "confidence":  "Med"
+                                           },
+                                           {
+                                               "official_stock_name":  "Lockheed Martin Corp.",
+                                               "direction":  "Down",
+                                               "category":  "Defense/Aerospace",
+                                               "why":  "Reduced geopolitical escalation rhetoric lowers short-term defense risk premium. Lockheed is closely tied to NATO tension narratives. Assumes markets price slightly lower confrontation risk.",
+                                               "confidence":  "Low"
+                                           }
+                                       ],
+                             "key_assumptions":  [
+                                                     "Trump’s tariff climbdown is credible for weeks to months",
+                                                     "Markets treat Davos remarks as de-escalatory signal",
+                                                     "No immediate replacement trade or geopolitical shock emerges"
+                                                 ]
+                         }
+    },
+    {
+        "run_metadata":  {
+                             "run_id":  "81739ed9-ad0e-4466-96e0-1a8016dc965b",
+                             "run_date":  "2026-01-22",
+                             "article_title":  "European governments turn to short-term borrowing as pension funds retreat",
+                             "article_source":  "Financial Times",
+                             "article_theme":  "Rates",
+                             "article_hypothesis":  "Rising yields force shift to short-term sovereign debt"
+                         },
+        "model_output":  {
+                             "top_pick_index":  0,
+                             "ideas":  [
+                                           {
+                                               "official_stock_name":  "Deutsche Bank AG",
+                                               "direction":  "Up",
+                                               "category":  "Financials",
+                                               "why":  "Shift to short-term sovereign issuance boosts trading volumes and demand for rate-hedging. Deutsche Bank is highly exposed to European rates markets. Assumes continued issuance surge and elevated rate volatility.",
+                                               "confidence":  "High"
+                                           },
+                                           {
+                                               "official_stock_name":  "BNP Paribas SA",
+                                               "direction":  "Up",
+                                               "category":  "Financials",
+                                               "why":  "Heavier sovereign bill and bond issuance increases underwriting, trading and repo activity. BNP has large Eurozone government bond and rates businesses. Assumes no abrupt policy reversal lowering issuance.",
+                                               "confidence":  "Med"
+                                           },
+                                           {
+                                               "official_stock_name":  "Aegon Ltd",
+                                               "direction":  "Down",
+                                               "category":  "Financials",
+                                               "why":  "Structural retreat of pension funds from long-dated bonds reduces demand for duration-heavy assets. Aegon’s asset management arm is exposed to long-term liability-driven strategies. Assumes shift persists near-term.",
+                                               "confidence":  "Med"
+                                           },
+                                           {
+                                               "official_stock_name":  "Legal \u0026 General Group Plc",
+                                               "direction":  "Down",
+                                               "category":  "Financials",
+                                               "why":  "Lower long-bond supply and weaker DB pension demand pressure LDI flows. L\u0026G has large UK pension and annuity exposure tied to long-duration gilts. Assumes yield volatility discourages long-duration demand.",
+                                               "confidence":  "Low"
+                                           }
+                                       ],
+                             "key_assumptions":  [
+                                                     "Eurozone and UK sovereign issuance volumes remain elevated in 2026",
+                                                     "Yield curve remains steep with higher long-end volatility",
+                                                     "No rapid return of pension funds as dominant long-bond buyers"
+                                                 ]
+                         }
+    },
+    {
+        "run_metadata":  {
+                             "run_id":  "eu_autonomy_2026_01_22_01",
+                             "run_date":  "2026-01-22",
+                             "article_title":  "Thanks Donald, Europe will take it from here",
+                             "article_source":  "Financial Times",
+                             "article_theme":  "Geopolitics",
+                             "article_hypothesis":  "Europe accelerates strategic independence from the US"
+                         },
+        "model_output":  {
+                             "top_pick_index":  0,
+                             "ideas":  [
+                                           {
+                                               "official_stock_name":  "Rheinmetall AG",
+                                               "direction":  "Up",
+                                               "category":  "Defense/Aerospace",
+                                               "why":  "Catalyst is rising EU defence spending and push for European-only procurement. Rheinmetall is a core European defence prime positioned to benefit if Europe reduces reliance on US suppliers. Assumes defence budgets and procurement reform translate into near-term orders.",
+                                               "confidence":  "High"
+                                           },
+                                           {
+                                               "official_stock_name":  "BAE Systems plc",
+                                               "direction":  "Up",
+                                               "category":  "Defense/Aerospace",
+                                               "why":  "EU rearmament and coalition-based defence projects support demand for large non-US-aligned defence primes. BAE benefits from European-led procurement if US firms are deprioritised. Assumes UK remains integrated into EU defence initiatives.",
+                                               "confidence":  "Med"
+                                           },
+                                           {
+                                               "official_stock_name":  "Palantir Technologies Inc",
+                                               "direction":  "Down",
+                                               "category":  "Tech/Semiconductors",
+                                               "why":  "Catalyst is European push to reduce dependence on US defence and data platforms. Palantir is explicitly cited as a risky US supplier, raising near-term contract and sentiment risk in Europe. Assumes rhetoric influences procurement decisions.",
+                                               "confidence":  "Med"
+                                           },
+                                           {
+                                               "official_stock_name":  "Airbus SE",
+                                               "direction":  "Up",
+                                               "category":  "Defense/Aerospace",
+                                               "why":  "European strategic autonomy supports demand for domestically controlled aerospace and defence capabilities. Airbus is a flagship EU industrial champion that could gain from coordinated defence and tech investment. Assumes defence spillover benefits aerospace units.",
+                                               "confidence":  "Med"
+                                           }
+                                       ],
+                             "key_assumptions":  [
+                                                     "European defence spending increases accelerate rather than remain symbolic",
+                                                     "EU governments actively shift procurement away from US suppliers",
+                                                     "Policy rhetoric quickly influences budget allocation and contracts"
+                                                 ]
+                         }
+    },
+    {
+        "run_metadata":  {
+                             "run_id":  "ft_trumpian_uncertainty_001",
+                             "run_date":  "2026-01-23",
+                             "article_title":  "Lessons for business in Trumpian uncertainty",
+                             "article_source":  "Financial Times",
+                             "article_theme":  "Geopolitics",
+                             "article_hypothesis":  "Rising populism drives protectionism and state intervention"
+                         },
+        "model_output":  {
+                             "top_pick_index":  0,
+                             "ideas":  [
+                                           {
+                                               "official_stock_name":  "Lockheed Martin Corporation",
+                                               "direction":  "Up",
+                                               "category":  "Defense/Aerospace",
+                                               "why":  "Rising nationalism and state capitalism imply higher defense intervention and spending. Lockheed is directly leveraged to US defense priorities. Assumes geopolitical rhetoric translates into near-term budget and contract momentum.",
+                                               "confidence":  "High"
+                                           },
+                                           {
+                                               "official_stock_name":  "Vestas Wind Systems A/S",
+                                               "direction":  "Down",
+                                               "category":  "Utilities/Clean energy",
+                                               "why":  "Populist backlash against wind power and hostile political rhetoric raise regulatory and demand risk. Vestas is highly exposed to policy sentiment shifts. Assumes rhetoric dampens near-term US wind investment.",
+                                               "confidence":  "Med"
+                                           },
+                                           {
+                                               "official_stock_name":  "Caterpillar Inc.",
+                                               "direction":  "Up",
+                                               "category":  "Industrial/Supply chain",
+                                               "why":  "Protectionism and reshored supply chains increase demand for domestic infrastructure and mining equipment. Caterpillar benefits from state-led industrial activity. Assumes intervention translates into capex acceleration.",
+                                               "confidence":  "Med"
+                                           },
+                                           {
+                                               "official_stock_name":  "LVMH Moët Hennessy Louis Vuitton SE",
+                                               "direction":  "Down",
+                                               "category":  "Consumer",
+                                               "why":  "Rising nationalism and preference for domestic brands threaten global luxury demand. LVMH relies on cross-border consumer trust. Assumes sentiment shifts impact near-term sales expectations.",
+                                               "confidence":  "Low"
+                                           },
+                                           {
+                                               "official_stock_name":  "Newmont Corporation",
+                                               "direction":  "Up",
+                                               "category":  "Materials",
+                                               "why":  "Heightened geopolitical uncertainty and capital war fears boost hedging demand for gold. Newmont is directly leveraged to gold price moves. Assumes uncertainty sustains safe-haven flows.",
+                                               "confidence":  "Med"
+                                           }
+                                       ],
+                             "key_assumptions":  [
+                                                     "Political rhetoric influences near-term policy and investor sentiment",
+                                                     "Protectionism accelerates domestic investment decisions",
+                                                     "Defense and commodities react faster than consumer behavior",
+                                                     "No immediate global recession offsets policy-driven spending"
+                                                 ]
+                         }
     }
 ];

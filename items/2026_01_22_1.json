@@ -1,0 +1,48 @@
+{
+  "run_metadata": {
+    "run_id": "81739ed9-ad0e-4466-96e0-1a8016dc965b",
+    "run_date": "2026-01-22",
+    "article_title": "European governments turn to short-term borrowing as pension funds retreat",
+    "article_source": "Financial Times",
+    "article_theme": "Rates",
+    "article_hypothesis": "Rising yields force shift to short-term sovereign debt"
+  },
+  "model_output": {
+    "top_pick_index": 0,
+    "ideas": [
+      {
+        "official_stock_name": "Deutsche Bank AG",
+        "direction": "Up",
+        "category": "Financials",
+        "why": "Shift to short-term sovereign issuance boosts trading volumes and demand for rate-hedging. Deutsche Bank is highly exposed to European rates markets. Assumes continued issuance surge and elevated rate volatility.",
+        "confidence": "High"
+      },
+      {
+        "official_stock_name": "BNP Paribas SA",
+        "direction": "Up",
+        "category": "Financials",
+        "why": "Heavier sovereign bill and bond issuance increases underwriting, trading and repo activity. BNP has large Eurozone government bond and rates businesses. Assumes no abrupt policy reversal lowering issuance.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "Aegon Ltd",
+        "direction": "Down",
+        "category": "Financials",
+        "why": "Structural retreat of pension funds from long-dated bonds reduces demand for duration-heavy assets. Aegon\u2019s asset management arm is exposed to long-term liability-driven strategies. Assumes shift persists near-term.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "Legal & General Group Plc",
+        "direction": "Down",
+        "category": "Financials",
+        "why": "Lower long-bond supply and weaker DB pension demand pressure LDI flows. L&G has large UK pension and annuity exposure tied to long-duration gilts. Assumes yield volatility discourages long-duration demand.",
+        "confidence": "Low"
+      }
+    ],
+    "key_assumptions": [
+      "Eurozone and UK sovereign issuance volumes remain elevated in 2026",
+      "Yield curve remains steep with higher long-end volatility",
+      "No rapid return of pension funds as dominant long-bond buyers"
+    ]
+  }
+}

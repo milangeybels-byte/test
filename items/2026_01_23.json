@@ -1,0 +1,56 @@
+{
+  "run_metadata": {
+    "run_id": "ft_trumpian_uncertainty_001",
+    "run_date": "2026-01-23",
+    "article_title": "Lessons for business in Trumpian uncertainty",
+    "article_source": "Financial Times",
+    "article_theme": "Geopolitics",
+    "article_hypothesis": "Rising populism drives protectionism and state intervention"
+  },
+  "model_output": {
+    "top_pick_index": 0,
+    "ideas": [
+      {
+        "official_stock_name": "Lockheed Martin Corporation",
+        "direction": "Up",
+        "category": "Defense/Aerospace",
+        "why": "Rising nationalism and state capitalism imply higher defense intervention and spending. Lockheed is directly leveraged to US defense priorities. Assumes geopolitical rhetoric translates into near-term budget and contract momentum.",
+        "confidence": "High"
+      },
+      {
+        "official_stock_name": "Vestas Wind Systems A/S",
+        "direction": "Down",
+        "category": "Utilities/Clean energy",
+        "why": "Populist backlash against wind power and hostile political rhetoric raise regulatory and demand risk. Vestas is highly exposed to policy sentiment shifts. Assumes rhetoric dampens near-term US wind investment.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "Caterpillar Inc.",
+        "direction": "Up",
+        "category": "Industrial/Supply chain",
+        "why": "Protectionism and reshored supply chains increase demand for domestic infrastructure and mining equipment. Caterpillar benefits from state-led industrial activity. Assumes intervention translates into capex acceleration.",
+        "confidence": "Med"
+      },
+      {
+        "official_stock_name": "LVMH Moët Hennessy Louis Vuitton SE",
+        "direction": "Down",
+        "category": "Consumer",
+        "why": "Rising nationalism and preference for domestic brands threaten global luxury demand. LVMH relies on cross-border consumer trust. Assumes sentiment shifts impact near-term sales expectations.",
+        "confidence": "Low"
+      },
+      {
+        "official_stock_name": "Newmont Corporation",
+        "direction": "Up",
+        "category": "Materials",
+        "why": "Heightened geopolitical uncertainty and capital war fears boost hedging demand for gold. Newmont is directly leveraged to gold price moves. Assumes uncertainty sustains safe-haven flows.",
+        "confidence": "Med"
+      }
+    ],
+    "key_assumptions": [
+      "Political rhetoric influences near-term policy and investor sentiment",
+      "Protectionism accelerates domestic investment decisions",
+      "Defense and commodities react faster than consumer behavior",
+      "No immediate global recession offsets policy-driven spending"
+    ]
+  }
+}
