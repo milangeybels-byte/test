@@ -47,6 +47,24 @@ header {
     animation: fadeInDown 0.8s ease-out;
 }
 
+/* Header — helper for non-underlined nav links */
+.about-link,
+header a {
+    text-decoration: none;
+    color: var(--text-muted);
+    font-size: 0.9rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    transition: var(--transition);
+}
+
+.about-link:hover,
+header a:hover {
+    color: var(--text-main);
+    text-decoration: none;
+}
+
+
 h1 {
     font-size: 3rem;
     font-weight: 700;
